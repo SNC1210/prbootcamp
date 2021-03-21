@@ -1,4 +1,4 @@
-//problem 1 of codekata solved in two time
+//problem 1 of codekata solved in  time
 
 const readline = require('readline');
 const inp = readline.createInterface({
